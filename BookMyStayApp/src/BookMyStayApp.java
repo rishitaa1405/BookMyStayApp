@@ -71,7 +71,7 @@ class SuiteRoom extends Room {
         System.out.println("Price per Night: ₹" + getPricePerNight());
     }
 }
-
+gitr
 // Main Class (UNCHANGED as per requirement)
 public class BookMyStayApp {
 
